@@ -5,77 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ECE Hub - Share & Innovate</title>
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(135deg, #ff9a9e, #fad0c4);
-            text-align: center;
-            color: white;
-        }
-        header {
-            background: rgba(0, 0, 0, 0.6);
-            padding: 20px;
-            font-size: 28px;
-            font-weight: bold;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-        }
-        .container {
-            padding: 30px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .card {
-            background: rgba(255, 255, 255, 0.9);
-            padding: 25px;
-            margin: 20px;
-            max-width: 700px;
-            box-shadow: 0px 10px 15px rgba(0,0,0,0.2);
-            border-radius: 15px;
-            color: black;
-        }
-        button {
-            padding: 12px 25px;
-            background: #ff4e50;
-            color: white;
-            border: none;
-            cursor: pointer;
-            font-size: 18px;
-            border-radius: 30px;
-            transition: all 0.3s ease;
-        }
-        button:hover {
-            background: #fc913a;
-            transform: scale(1.1);
-        }
-        .footer {
-            margin-top: 30px;
-            font-size: 14px;
-            opacity: 0.8;
-        }
-        .tasks, .report {
-            margin-top: 30px;
-            background: rgba(255, 255, 255, 0.9);
-            padding: 20px;
-            border-radius: 15px;
-            max-width: 700px;
-            box-shadow: 0px 10px 15px rgba(0,0,0,0.2);
-            color: black;
-        }
-        .tasks ul, .report ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .tasks li, .report li {
-            background: #ffeb3b;
-            margin: 10px 0;
-            padding: 10px;
-            border-radius: 10px;
-            font-weight: bold;
-        }
-    </style>
+   
 </head>
 <body>
     <header>🚀 ECE Hub - Share & Innovate</header>
